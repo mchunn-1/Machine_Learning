@@ -1,0 +1,4 @@
+# Machine Learning
+This repository contains a tutorial I wrote on RNNs.
+# Tutorial: Recurrent Neural Networks
+The file RNNtutorial.ipynb contains a tutorial on using reccurent nueral networks. This turtorial will suplement the paper "Deep Learning Prediction of Polycyclic Aromatic Hydrocarbons in the High Arctic" by Zhao et al. (2019) and will focus on recurrent neural networks (RNN). Through the utilization of bioinformatic tools and techniques, the field of environmental biology has made strides in the analysis of data related to climate change and the health of our planet. With the success of similar research in mind, a proposed idea is to utilize  recurrent neural networks as a means to predict future temperatures in response to concentration of greenhouse gasses in the atmosphere. For this tutorial, a simple time-series dataset pertaining to temperature will be used.
